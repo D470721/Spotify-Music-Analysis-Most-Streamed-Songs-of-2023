@@ -1,8 +1,15 @@
 # Spotify Music Analysis: Most Streamed Songs of 2023
 
+### Table of Contents
+
+
+
 ### Project Overview
 This project explores Spotify’s most-streamed tracks in 2023. Using Power BI, I created a visually engaging dashboard to analyze key metrics such as total streams, top-performing artists, and audio features like energy, danceability, and mode (Major/Minor).
 The goal was to transform raw music data into meaningful insights using Power Query, DAX, and strong visual storytelling.
+![Spotify Music Analysis Dashboard Screenshot](https://github.com/user-attachments/assets/106dd17a-aa93-4d6b-bd8f-90d81013d7ee)
+
+
 
 ### Objectives
 - Analyze top artists and tracks by global stream count
@@ -128,7 +135,7 @@ Based on the insights drawn from the Spotify streaming data, here are several re
 The most streamed tracks typically exhibit moderate danceability and high valence, indicating that upbeat and emotionally positive songs tend to perform better. Artists should aim to compose tracks that resonate emotionally with listeners while remaining rhythmically engaging.
 - Energy Levels:
 
-Tracks with moderate to high energy scored higher on stream counts. This suggests a preference for vibrant, active songs that energize listeners.
+Tracks with moderate to high energy scored higher on stream counts, suggesting a preference for vibrant, active songs that energize listeners.
 - Recommendation: Artists can use tools like Spotify’s audio feature analysis or third-party DAWs to fine-tune these values during production.
 
 2. Spotify Marketing & Curation Teams: Strategic Promotion
@@ -137,21 +144,20 @@ Tracks with moderate to high energy scored higher on stream counts. This suggest
 A small number of artists like The Weeknd, Ed Sheeran, and Taylor Swift accounted for a large share of total streams. This suggests a potential to:
     - Promote emerging artists to diversify listening behavior
     - Create playlists that balance chart-toppers with new talents
+
 - Recommendation: Use this data to tailor curated playlists and campaigns based on high-performing artist clusters and track features.
 
  3. Release Strategy: Focus on Recent Years
-The stream trend line shows a clear spike in post-2010 releases, especially between 2019 and 2023. This may correlate with streaming platform maturity and user growth.
-
-Recommendation: New artists should prioritize digital-first strategies. Legacy labels can consider re-releasing or promoting older tracks with modern edits to capture today's streaming audience.
+- The stream trend line shows a clear spike in post-2010 releases, especially between 2019 and 2023. This may correlate with streaming platform maturity and user growth.
+- Recommendation: New artists should prioritize digital-first strategies. Legacy labels can consider re-releasing or promoting older tracks with modern edits to capture today's streaming audience.
 
 4. Playlist Curation Based on Mood
-The strong presence of Major mode (57.7%) indicates a preference for uplifting and emotionally positive music.
+- The strong presence of Major mode (57.7%) indicates a preference for uplifting and emotionally positive music.
+- Recommendation: Spotify and similar platforms could develop mood-specific playlist categories such as:
 
-Recommendation: Spotify and similar platforms could develop mood-specific playlist categories such as:
+   - Feel-Good Energy (High Valence + High Danceability)
 
-“Feel-Good Energy” (High Valence + High Danceability)
-
-“Chill Evenings” (Low Energy + Minor Mode)
+   - Chill Evenings (Low Energy + Minor Mode)
 
 This data-driven approach to playlist segmentation could lead to higher engagement and user retention.
 
