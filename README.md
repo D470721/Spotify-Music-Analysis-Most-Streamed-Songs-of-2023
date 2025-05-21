@@ -1,14 +1,20 @@
 # Spotify Music Analysis: Most Streamed Songs of 2023
 
 ### Table of Contents
-
-
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Landing Page and Methodology](#landing-page-and-methodology)
+- [Data Source](#data-source)
+- [Tools and Techniques Used](#tools-and-techniques-used)
+- [Type of Analysis Used](#type-of-analysis-used)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Data Analysis and Results](#data-analysis-and-results)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 This project explores Spotify’s most-streamed tracks in 2023. Using Power BI, I created a visually engaging dashboard to analyze key metrics such as total streams, top-performing artists, and audio features like energy, danceability, and mode (Major/Minor).
 The goal was to transform raw music data into meaningful insights using Power Query, DAX, and strong visual storytelling.
-![Spotify Music Analysis Dashboard Screenshot](https://github.com/user-attachments/assets/106dd17a-aa93-4d6b-bd8f-90d81013d7ee)
-
+![Spotify Music Analysis Dashboard Screenshot](https://github.com/user-attachments/assets/128578a6-18af-4b2b-a48c-0a301a03f353)
 
 
 ### Objectives
